@@ -1,12 +1,11 @@
-package thirtyvirus.template.helpers;
+package torben.rankplugin.helpers;
 
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.BookMeta;
-import thirtyvirus.multiversion.API;
-import thirtyvirus.multiversion.XMaterial;
-import thirtyvirus.template.TemplatePlugin;
+import torben.multiversion.API;
+import torben.multiversion.XMaterial;
 
 import java.util.ArrayList;
 import java.util.List;

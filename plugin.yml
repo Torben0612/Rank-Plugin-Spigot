@@ -1,9 +1,12 @@
-main: thirtyvirus.template.TemplatePlugin
+main: torben.rankplugin.Main
 version: 1.0
-name: TemplatePlugin
+name: RankPlugin
 api-version: 1.13
+author: Torben
 
 commands:
+  rank:
+    description: The main command for the rank plugin
   template:
     description: Main command for TemplatePlugin. Use /template help for more info
 permissions:

@@ -1,4 +1,4 @@
-package thirtyvirus.template.events.chat;
+package torben.rankplugin.events.chat;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;

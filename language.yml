@@ -15,3 +15,9 @@ no-permissions-message: You do not have proper permissions!
 not-a-command-message: That is not a command!
 formatting-error-message: Formatting error, check your command syntax!
 no-console-message: You can only execute this command in-game!
+  
+owner-display-name: Owner
+admin-display-name: Admin
+mod-display-name: Mod
+member-display-name: Member
+guest-display-name: Guest

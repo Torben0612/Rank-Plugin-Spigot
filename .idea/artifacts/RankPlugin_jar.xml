@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RankPlugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RankPlugin_jar</output-path>
+    <root id="archive" name="Plugin_Template.jar">
+      <element id="module-output" name="Plugin_Template" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../apis/spigot-1.16.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

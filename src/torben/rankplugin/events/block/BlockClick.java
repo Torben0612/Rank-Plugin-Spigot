@@ -1,10 +1,10 @@
-package thirtyvirus.template.events.block;
+package torben.rankplugin.events.block;
 
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerInteractEvent;
-import thirtyvirus.template.helpers.ActionSound;
-import thirtyvirus.template.helpers.Utilities;
+import torben.rankplugin.helpers.ActionSound;
+import torben.rankplugin.helpers.Utilities;
 
 public class BlockClick implements Listener {
 
